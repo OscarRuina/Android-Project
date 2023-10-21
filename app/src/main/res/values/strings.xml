@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">pokemon API</string>
+    <string name="ingresar_usuario">Ingresar Usuario</string>
+    <string name="username">username</string>
+    <string name="ingresar_password">Ingresar Password</string>
+    <string name="password">password</string>
+    <string name="recordar_usuario">Recordar Usuario</string>
+    <string name="crear_usuario">Crear Usuario</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="terminos_y_condiciones">Terminos y Condiciones</string>
+    <string name="lorem_ipsum5">Lorem ipsum dolor sit amet consectetur adipiscing elit hac velit nulla, urna porta cursus diam pretium fusce consequat malesuada. Nulla sagittis enim suspendisse felis nisi blandit lacus, tellus neque eros luctus per porttitor dictum, pretium habitasse curabitur laoreet facilisis erat. Etiam habitasse potenti neque fusce mus at dictum tortor, sociosqu per ut nibh morbi malesuada non porta, sodales cursus iaculis ac curabitur id massa. Iaculis arcu himenaeos vitae proin facilisis parturient morbi, viverra nascetur hac auctor odio tristique, non vulputate est aliquam consequat quam. Rutrum nibh nascetur tristique ad posuere eros inceptos magnis imperdiet per at nullam diam, quisque ornare mauris morbi nunc nec mattis libero curae facilisis convallis erat. Pretium nam tempus vehicula gravida fringilla auctor parturient porta suspendisse congue litora sociis, sed convallis aliquam et enim torquent habitant magna fermentum eros tempor. Primis lacus taciti dui molestie inceptos aliquet, conubia ante quisque suspendisse neque. Malesuada commodo risus at enim et vestibulum erat pellentesque fermentum ultrices, justo fames tempus habitasse ante litora himenaeos odio neque, diam sagittis arcu pharetra magna nisl dignissim dictum volutpat. Sapien risus elementum maecenas mattis quam commodo faucibus nulla per congue, nam hendrerit in at taciti aptent mauris non convallis. Torquent nibh erat donec est id urna nascetur, sollicitudin lobortis varius phasellus posuere imperdiet, fames tristique convallis scelerisque rutrum bibendum. Suscipit massa ut posuere hendrerit ante praesent, natoque tincidunt faucibus nostra felis, porttitor libero fusce imperdiet mollis. In felis quam ridiculus orci senectus nisl morbi cum interdum, dignissim lacinia nec diam quis vel laoreet posuere penatibus, porttitor metus fusce leo fames mauris commodo conubia. Nibh bibendum a mattis suscipit rutrum suspendisse parturient fames massa, dictum interdum gravida accumsan ridiculus tortor himenaeos venenatis sem nullam, tellus neque leo laoreet mauris hendrerit sociis ultricies. Class nec lectus tortor dictumst praesent libero etiam, fringilla imperdiet ultrices felis dapibus proin, eleifend molestie massa faucibus dui velit. Ante pulvinar dapibus aliquet lacus nisl imperdiet, eros ad tincidunt varius mi proin curae, senectus porta netus suspendisse sociosqu. Suspendisse lacinia eros diam venenatis vehicula metus cursus facilisi varius posuere ullamcorper imperdiet convallis integer, volutpat nulla luctus faucibus habitasse cum pellentesque porta fermentum dui quam justo. Vehicula congue cras magnis diam sagittis dictumst vitae ligula ultricies etiam litora, curae interdum imperdiet eleifend euismod tempus odio conubia blandit consequat, a donec augue elementum molestie sodales at primis sociis volutpat.</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="registrar_usuario">Registrar Usuario</string>
+    <string name="ingrese_nombre">Ingrese Nombre</string>
+    <string name="registrar">Registrar</string>
+    <string name="ingrese_apellido">Ingrese Apellido</string>
+    <string name="ingrese_email">Ingrese Email</string>
+    <string name="ingrese_nombre_de_usuario">Ingrese Nombre de Usuario</string>
+    <string name="ingrese_password">Ingrese Password</string>
+    <string name="re_ingrese_password">Re Ingrese Password</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="cargar_mas_pokemon">Cargar mas Pokemon</string>
+    <string name="regresar">Regresar</string>
+    <string name="nombre">Nombre:</string>
+    <string name="numero">Numero:</string>
+    <string name="estadisticas_base">Estadisticas Base:</string>
+    <string name="tipo">Tipo:</string>
+    <string name="altura">Altura:</string>
+    <string name="peso">Peso:</string>
+</resources>

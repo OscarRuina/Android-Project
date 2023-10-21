@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activities.PokemonDetailsActivity">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar_layout"/>
+
+    <!-- ImageView para mostrar la imagen del Pokémon -->
+    <ImageView
+        android:id="@+id/ivPokemonImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitCenter"
+        android:layout_marginTop="16dp"/>
+
+    <!-- Texto para mostrar el ID del Pokémon -->
+    <TextView
+        android:id="@+id/tvPokemonId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/numero"
+        android:textStyle="bold"/>
+
+    <!-- Texto para mostrar el nombre del Pokémon -->
+    <TextView
+        android:id="@+id/tvPokemonName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nombre"
+        android:textStyle="bold" />
+
+    <!-- Texto para mostrar los tipos del Pokémon -->
+    <TextView
+        android:id="@+id/tvPokemonTypes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tipo"
+        android:textStyle="bold"/>
+
+    <!-- Texto para mostrar la altura del Pokémon -->
+    <TextView
+        android:id="@+id/tvPokemonHeight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/altura"
+        android:textStyle="bold"/>
+
+    <!-- Texto para mostrar el peso del Pokémon -->
+    <TextView
+        android:id="@+id/tvPokemonWeight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/peso"
+        android:textStyle="bold"/>
+
+    <!-- Texto para mostrar las estadísticas del Pokémon -->
+    <TextView
+        android:id="@+id/tvPokemonStats"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/estadisticas_base"
+        android:textStyle="bold"/>
+
+</LinearLayout>
